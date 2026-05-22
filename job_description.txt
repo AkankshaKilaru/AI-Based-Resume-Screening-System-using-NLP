@@ -1,0 +1,14 @@
+We are looking for a motivated AI/ML Developer with strong skills in Python programming, SQL, and problem-solving abilities. The candidate should have a solid understanding of Machine Learning, Natural Language Processing (NLP), Computer Vision, and Convolutional Neural Networks (CNN).
+
+Candidates should have hands-on experience in developing AI/ML models using Scikit-learn, Keras, TensorFlow, and data preprocessing techniques. Knowledge of image classification, model training, and prediction systems is highly preferred.
+
+Experience in full-stack web development using React.js, Node.js, Express.js, and database management using MongoDB and MySQL is required. Candidates should be able to build responsive applications, create REST APIs, and manage backend workflows efficiently.
+
+Strong programming knowledge in JavaScript, Java, Python, SQL, and C++ is expected. Good technical communication, logical thinking, team collaboration, and stakeholder interaction skills are important for this role.
+
+Preferred self-made projects include:
+- Skin Disease Detection using CNN
+- Expense Tracker using MERN Stack
+- Resume Screening using NLP
+
+Candidates with internship experience in AI/ML, backend development, or full-stack development will be given preference. Proactive learners who are eager to contribute to innovative software development projects are highly encouraged to apply.
