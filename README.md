@@ -1,2 +1,18 @@
-# AI-Based-Resume-Screening-System-using-NLP
-Developed an AI-based Resume Screening System using NLP and Machine Learning techniques to analyze resumes and compare them with job descriptions. Implemented text preprocessing, skill extraction, TF-IDF vectorization, and cosine similarity to calculate candidate-job match scores and generate hiring recommendations.
+# AI-Based Resume Screening System
+
+An NLP-based resume screening system that compares resumes with job descriptions and calculates match scores using TF-IDF and Cosine Similarity.
+
+## Features
+- Resume text extraction from DOCX files
+- Text preprocessing using NLTK
+- Skill extraction
+- Missing skill detection
+- Match score calculation
+- Candidate recommendation system
+
+## Technologies
+- Python
+- NLTK
+- Scikit-learn
+- TF-IDF
+- Cosine Similarity
